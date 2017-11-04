@@ -6,6 +6,8 @@ body {
 h1 {
     color: white;
     text-align: center;
+    height: 200%;
+
 }
 
 p {
@@ -27,6 +29,7 @@ img {
 
 }
 .center {
+    background-color: #404040;
     margin: auto;
     width: 50%;
     border: 3px solid white;
@@ -46,6 +49,7 @@ li {
 }
 
 li a {
+    background-color: #4C4C4C;
     display: block;
     color: white;
     text-align: center;
